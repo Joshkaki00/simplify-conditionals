@@ -2,7 +2,7 @@
 
 In this series of exercises, we practice various refactoring techniques. You may want to run pylint on this script to find any pep8 compliance issues. Fix as much as issues you can.
 
-- [ ]  Exercise 11: 'Introducing Explaining Variable' Technique
+- [x]  Exercise 11: 'Introducing Explaining Variable' Technique
   - Study the file [gauge_eyeballs.py](gauge_eyeballs.py). Use 'Replace Temp with query' technique to improve readability of the code. 
 
 - [ ]  Exercise 12: 'Decompose Conditional' Technique
