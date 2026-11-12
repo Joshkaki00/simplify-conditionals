@@ -24,3 +24,6 @@ def iris_area():
 
 def iris_to_eye_ratio():
     return iris_area() / eye_size
+
+def eye_aspect_ratio():
+    return eye_height / eye_width
