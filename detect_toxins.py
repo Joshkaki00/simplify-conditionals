@@ -27,3 +27,9 @@ def announce_toxin_free():
     print('Toxin Free')
     print('***')
     make_accept_sound()
+    
+ingredients = ['sodium benzoate']
+if has_toxin(ingredients):
+    announce_toxin()
+else:
+    announce_toxin_free()
