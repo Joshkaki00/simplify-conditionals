@@ -2,10 +2,7 @@
 # Decompose conditional
 # Reference: https://www.healthline.com/health/high-cholesterol/levels-by-age
 
-# Blood test analysis program
-total_cholostrol = 70
-ldl = 30
-triglyceride = 120
+
 
 def is_good(total, ldl, trig):
     return total < 200 and ldl < 100 and trig < 150
@@ -30,3 +27,9 @@ def announce_borderline():
           'For example,\nyour doctor may encourage you to eat more:')
     print('oats, barley, and other whole grains.')
     print('fruits such as apples, pears, bananas, and oranges.')
+
+
+# Blood test analysis program
+total_cholostrol = 70
+ldl = 30
+triglyceride = 120
