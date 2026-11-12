@@ -11,10 +11,10 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x]  Exercise  13: 'Consolidate Conditional Expression' Technique
   - Study the file [mix_ice_cream.py](mix_ice_cream.py). Use 'consolidate conditional expression' technique to improve readability of the code.
 
-- [ ]  Exercise  14: 'Consolidate Duplicate Conditional Fragments' Technique
+- [x]  Exercise  14: 'Consolidate Duplicate Conditional Fragments' Technique
   - Study the file [make_shirazi_salad.py](make_shirazi_salad.py) Use 'consolidate duplicate conditional fragments' technique to improve readability of the code.
 
-- [ ]  Exercise  15: 'Remove Control Flag' Technique
+- [x]  Exercise  15: 'Remove Control Flag' Technique
   - Study the file [find_food.py](find_food.py). Use 'remove control flag' technique to improve readability of the code.
 
 - [ ]  Exercise  16: 'Replace Nested Conditional with Guard Clauses' Technique
