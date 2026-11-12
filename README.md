@@ -5,7 +5,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x]  Exercise 11: 'Introducing Explaining Variable' Technique
   - Study the file [gauge_eyeballs.py](gauge_eyeballs.py). Use 'Replace Temp with query' technique to improve readability of the code. 
 
-- [ ]  Exercise 12: 'Decompose Conditional' Technique
+- [x]  Exercise 12: 'Decompose Conditional' Technique
   - Study the file [detect_toxins.py](detect_toxins.py). Use 'decompose conditional' technique to improve readability of the code. 
 
 - [ ]  Exercise  13: 'Consolidate Conditional Expression' Technique
