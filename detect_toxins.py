@@ -21,3 +21,9 @@ def announce_toxin():
     print('there is a toxin in the food!')
     print('!!!')
     make_alert_sound()
+    
+def announce_toxin_free():
+    print('***')
+    print('Toxin Free')
+    print('***')
+    make_accept_sound()
