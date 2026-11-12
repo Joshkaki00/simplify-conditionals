@@ -21,3 +21,6 @@ iris_height = 19.7 # [mm]
 
 def iris_area():
     return math.pi * (iris_width / 2) * (iris_height / 2)
+
+def iris_to_eye_ratio():
+    return iris_area() / eye_size
