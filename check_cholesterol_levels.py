@@ -35,7 +35,7 @@ def announce_borderline():
 
 
 # Blood test analysis program
-total_cholostrol = 70
+total_cholesterol = 70
 ldl = 30
 triglyceride = 120
 
