@@ -15,3 +15,9 @@ def has_toxin(ingredients):
         or 'sodium benzoate' in ingredients
         or 'sodium oxide' in ingredients
     )
+
+def announce_toxin():
+    print('!!!')
+    print('there is a toxin in the food!')
+    print('!!!')
+    make_alert_sound()
