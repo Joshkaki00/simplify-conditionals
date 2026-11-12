@@ -27,3 +27,6 @@ def iris_to_eye_ratio():
 
 def eye_aspect_ratio():
     return eye_height / eye_width
+
+if eye_size > 0.45 and iris_to_eye_ratio() >= 0.69 and eye_aspect_ratio() >= 0.59:
+    print("I’m sorry I wasn’t part of your past, can I make it up by being in your future?")
