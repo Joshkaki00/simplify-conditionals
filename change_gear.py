@@ -20,9 +20,8 @@ def process_speed(speed):
         gear = '3'
         change_gear(gear)
     elif 90 <= speed:
-        change_gear('4')
         gear = '4'
-        display_gear(gear)
+        change_gear(gear)
     elif speed <= 0:
         display_gear('R')
 
