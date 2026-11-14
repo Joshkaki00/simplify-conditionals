@@ -23,7 +23,8 @@ def process_speed(speed):
         gear = '4'
         change_gear(gear)
     elif speed <= 0:
-        display_gear('R')
+        gear = 'R'
+    display_gear(gear)
 
 if __name__ == "__main__":
     process_speed(40)
