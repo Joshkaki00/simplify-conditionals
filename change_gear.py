@@ -16,10 +16,9 @@ def process_speed(speed):
     elif 30 <= speed < 50:
         gear = '2'
         change_gear(gear)
-    elif 50 <= speed <= 90:
-        change_gear('3')
+    elif 50 <= speed < 90:
         gear = '3'
-        display_gear(gear)
+        change_gear(gear)
     elif 90 <= speed:
         change_gear('4')
         gear = '4'
